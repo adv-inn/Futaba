@@ -1,12 +1,21 @@
-# Futaba
-
 <p align="center">
   <img src="img/logo.png" alt="Futaba" width="200">
 </p>
 
+<p align="center">
+    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/adv-inn/futaba">
+    <img src="https://img.shields.io/github/downloads/adv-inn/futaba/total?style=flat&label=Downloads"></a>
+</p>
+
+# Futaba
+
 A League of Legends companion client built with Tauri, supporting both desktop and mobile control.
 
 This project is released under the [GPL-3.0](LICENSE) license. Due to previous incidents where malicious users obtained the source code and sold compiled versions online, which goes against the original intent of this project, the source code will not be open-sourced at this stage. It will be open-sourced once the project reaches a certain level of adoption.
+
+## Feedback
+QQ Group:1080984368
+Github issue:[https://github.com/adv-inn/futaba/issues](https://github.com/adv-inn/futaba/issues)
 
 Features
 ---

@@ -1,11 +1,20 @@
-# Futaba
 <p align="center">
   <img src="img/logo.png" alt="Futaba" width="200">
 </p>
 
+<p align="center">
+    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/adv-inn/futaba">
+    <img src="https://img.shields.io/github/downloads/adv-inn/futaba/total?style=flat&label=Downloads"></a>
+</p>
+
+# Futaba
 一款使用Tauri开发的支持双端操作的英雄联盟客户端
 
 本程序发布时将遵循[GPL-3.0](LICENSE)协议，由于此前遇到过恶意用户多次获取源代码并编译自己的版本到互联网售卖，这破坏了我的初衷，所以本项目现阶段并不会开源，会在传播度到达一定程度时进行开源
+
+## 问题反馈/优化建议
+QQ群:1080984368
+Github issue:[https://github.com/adv-inn/futaba/issues](https://github.com/adv-inn/futaba/issues)
 
 已实现的功能
 ---
